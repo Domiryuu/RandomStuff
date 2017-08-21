@@ -1,8 +1,9 @@
 .libs/
 .deps/
+auto4te.cache/
 *.la
 *.lo
-*.in
 *.a
 *.so
+*.o
 Makefile
