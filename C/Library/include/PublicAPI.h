@@ -12,7 +12,12 @@
  */
 #ifndef PUBLICAPI_H
 #define PUBLICAPI_H
-
+/*
+ * Make this library work with C++
+ */
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 /* 
  * This is a structure definition that does not show it's
@@ -24,5 +29,7 @@ typedef struct _MyStruct MyStruct;
  * function prototype
  */
 void printHello();
-
+#ifdef __cplusplus
+}
+#endif
 #endif
