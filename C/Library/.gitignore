@@ -1,6 +1,8 @@
 .libs/
 .deps/
 autom4te.cache/
+scripts/
+configure
 *.in
 *.la
 *.lo
@@ -11,3 +13,6 @@ Makefile
 config.status
 config.log
 libtool
+INSTALL
+libtool
+*.m4
