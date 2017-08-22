@@ -26,7 +26,7 @@ extern "C" {
 typedef struct _MyStruct MyStruct;
 
 /*
- * function prototype
+ * function definition
  */
 void printHello();
 #ifdef __cplusplus
