@@ -1,5 +1,6 @@
 AC_PREREQ([2.61])
 AC_INIT([Test], [1.0], [test@test.org])
+AC_CONFIG_AUX_DIR([scripts])
 AM_INIT_AUTOMAKE
 LT_PREREQ([2.2])
 LT_INIT
