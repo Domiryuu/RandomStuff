@@ -1,9 +1,13 @@
 .libs/
 .deps/
-auto4te.cache/
+autom4te.cache/
+*.in
 *.la
 *.lo
 *.a
 *.so
 *.o
 Makefile
+config.status
+config.log
+libtool
