@@ -7,4 +7,4 @@ When contributing either code or requests just keep in mind that this repository
 that beings said...
 
 ### Edits
-If you have see something that is wrong, extremely inefficient, or outdated please tell me.
+If you see something that is wrong, extremely inefficient, or outdated please tell me.
